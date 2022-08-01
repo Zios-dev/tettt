@@ -1,0 +1,19 @@
+.{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 2500px;
+    background: lightpink;
+}
+.player
+{
+    position: relative;
+    width: 400px;
+    background: whitesmoke;
+}

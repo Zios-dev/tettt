@@ -1,0 +1,156 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.home{
+    background-color: white;
+}
+.navbar{
+    width: 100%;
+    height: 65px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar a{
+    text-decoration: none;
+    margin-right: 70px;
+    font-size: small;
+    color: white;
+}
+.navbar li{
+    display: inline-block;
+}
+.navbar .logo{
+    margin-right: auto;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+}
+.hero{
+    margin-top: 10px;
+    padding-top: 10%;
+    text-align: center;
+}
+.hero button{
+    background: orange;
+    color: white;
+    cursor: auto;
+    padding: auto;
+    width: 100px;
+    height: 20px;
+    transition: ease-out;
+    margin: 10px;
+}
+.her{
+    content: flex;
+    text-align: center;
+}
+.wrapper h1{
+    font-size: 20px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.team{
+    display: flex;
+    text-align: center;
+    width: auto;
+    justify-content: center;
+}
+.team .team_member{
+    margin: 6px;
+    margin-bottom: 50px;
+    width: auto;
+    padding: 10px;
+    line-height: 20px;
+    position: relative;
+}
+.team .teay{
+    margin: 6px;
+    margin-bottom: 50px;
+    width: auto;
+    padding: 10px;
+    line-height: 20px;
+    position: relative;
+}
+.team .teay h3{
+    font-size: 30px;
+    margin-top: 5px
+}
+.team .teay p.role{
+    font-size: 15px;
+    margin: 10px;
+    font-style: italic;
+}
+.team .team_member .team_img{
+    width: px;
+    height: 50px;
+    border-radius: 50px;
+}
+.team .team_member h3{
+    font-size: 30px;
+    margin-top: 140px;
+}   
+.team .team_member p.role{
+    font-size: 15px;
+    margin: 13px;
+    font-style: italic;
+}
+.wrapp h1{
+    font-size: 20px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.heo{
+    text-align: left;
+    background-color: rgb(243, 204, 191);
+}
+.hro{
+    background-color: rgb(243, 204, 191);
+    text-align: right;
+}
+.hro button{
+    background: orange;
+    color: white;
+    cursor: auto;
+    padding: auto;
+    height: 20px;
+    transition: ease-out;
+    margin: 20px;
+}
+.hee{
+    text-align: center;
+    margin: 20px;
+}
+.hee button{
+    background: orange;
+    color: white;
+}
+.herd{
+    background: black;
+    color: white;
+}
+.herd p{
+    font-size: 16px;
+}
+.herc{
+    background: black;
+    color: white;
+    text-align: center;
+    margin-top: -70px;
+}
+.herc p{
+    font-size: 16px;
+}
+.herb{
+    background: rgb(20, 19, 16);
+    color: white;
+    text-align: right;
+    margin-top: -70px;
+}
+.hroa{
+    background-color: black;
+    text-align: right;
+}
